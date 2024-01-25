@@ -10,6 +10,7 @@ Some of the most important packages:
 - [`innmind/framework`](https://github.com/Innmind/framework) to build HTTP and CLI apps
 - [`innmind/black-box`](https://github.com/Innmind/BlackBox) is a test framework focused on Property Based Testing
 - [`innmind/operating-system`](https://github.com/Innmind/OperatingSystem) abstract all operations done to the OS (Networking, Filesystem, etc...)
+- [`innmind/mantle`](https://github.com/Innmind/mantle) is an async framework allowing to write async code as if it were synchronous
 - [`innmind/amqp`](https://github.com/Innmind/AMQP) is a functional Client to AMQP servers such as RabbitMQ
 - [`innmind/immutable`](https://github.com/Innmind/Immutable) provides immutable data structures
 
