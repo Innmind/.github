@@ -2,7 +2,7 @@
 
 ## About Innmind
 
-This Innmind organization intends to [prove a theory of consciousness](https://github.com/Innmind/documentation/blob/master/vision.md).
+This Innmind organization intends to [prove a theory of consciousness](https://innmind.github.io/documentation/philosophy/).
 
 To try to reach this goal this organization provides high level abstractions and tools (mixing Object Oriented and Functional programming) that can be used in any project.
 
