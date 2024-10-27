@@ -17,7 +17,7 @@ Some of the most important packages:
 Some useful tools:
 - [`innmind/git-release`](https://github.com/Innmind/GitRelease) to simplify creating Semver tags
 - [`innmind/lab-station`](https://github.com/Innmind/LabStation) is a tool to run tests, static analyzer and CS fixer when you update your code
-- [`macOS-tooling`](https://github.com/Innmind/macOS-tooling) provides a macOS app to visualize the dependencies of an organization
+- [`innmind.net`](http://innmind.net) provides a web app to visualize the dependencies of an organization
 
 ## Sister organization
 
