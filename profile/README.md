@@ -22,3 +22,9 @@ Some useful tools:
 ## Sister organization
 
 [Formal](https://github.com/formal-php) is an organization attached to this one but is focused on data persistence.
+
+## Sponsors
+
+Thanks to [Blackfire](https://www.blackfire.io) for providing a license to help improve the performance of Innmind packages.
+
+![Blackfire](../blackfire-io.png)
